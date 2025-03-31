@@ -41,7 +41,7 @@ Este guia explica como instalar e configurar os programas essenciais para utiliz
    - Agora na aba de Download, instale os arquivos que você selecionou anteriormente, após completar a instalação, clique em Next até a aba "Account and Roles".
    - Nessa aba insira a senha que você irá usar para acessar os bancos que você for criar, lembre-se de guardar essa senha em algum lugar que você não esqueça.
    - Em seguida clique em Next até a aba "Apply configuration" e clique no botão "Execute". <br>
- `Em caso de dúvidas, veja o vídeo de instalação do programa: https://www.youtube.com/watch?v=a5ul8o76Hqw`
+ Em caso de dúvidas, veja o vídeo de instalação do programa: https://www.youtube.com/watch?v=a5ul8o76Hqw
 5. Após a instalação:
    - Abra o MySQL Workbench.
    - Clique em `+` em "MySQL Connections" para criar uma nova conexão.
