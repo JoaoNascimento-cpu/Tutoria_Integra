@@ -1,4 +1,4 @@
-# Integra - Guia de Instalação para Windows 10/11
+# Integra - Guia de Instalação de programas para Windows 10/11
 
 Este guia explica como instalar e configurar os programas essenciais para utilizar o Integra.
 
@@ -34,8 +34,11 @@ Este guia explica como instalar e configurar os programas essenciais para utiliz
 1. Acesse o site oficial: [https://dev.mysql.com/downloads/workbench](https://dev.mysql.com/downloads/workbench).
 2. Role para baixo e clique em **Download** na seção "MySQL Workbench".
 3. Execute o instalador (`mysql-workbench-community-XXXXX-winx64.msi`).
-4. Siga as instruções do instalador.
-   -
+4. Siga as instruções do instalador:
+   - Ao acessar a tela de configurações de intalação, clique na aba "Choosing a Setup Type" e clique na opção "Custom" e em seguida clique em "Next".
+   - Na aba "Select Products and Features" procure em "avaliabe products" o arquivo "MySql Server 8.0.13 - X64" (A versão pode variar dependendo da data na qual você está instalando) e mova esse mesmo arquivo para o campo "Products/Features to be installed" utilizando as setas presentes entre os campos.
+   - Repita esse processo com os arquivos "MySql Workbench `x.x.xx` - X64" e com o arquivo "Samples and Examples `x.x.xx` - X86" e clique em "Next".
+   - Agora na aba de Download, instale os arquivos que você selecionou anteriormente, após completar a instalação, clique em Next até . 
 5. Após a instalação:
    - Abra o MySQL Workbench.
    - Clique em `+` em "MySQL Connections" para criar uma nova conexão.
